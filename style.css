@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: burlywood;
+}
+
+h1 {
+    background-color:antiquewhite;
+    padding: 15px;
+    border-radius: 40%;
+}
+
+p {
+    background-color:antiquewhite;
+    padding: 15px;
+    border-radius: 40%;
+}
+#theMessage {
+    background-color:rgb(253, 205, 142);
+    padding: 25px;
+    border: 2px solid peru;
+    border-radius: 40%;
+}
+
+button {
+    background-color:rgb(250, 196, 115);
+    padding: 25px;
+    border-radius: 40%;
+}
